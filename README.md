@@ -1,4 +1,4 @@
-
+# An Employee Management System (Full Stack Application) built using Spring Boot and React Js. Spring Security , Authentication, Runtime Excception Management and Dynamic API calls implemented to make this application responsive and user friendly. Suitable for managing employees in an organization, with add,update,delete features.
 
 
 
